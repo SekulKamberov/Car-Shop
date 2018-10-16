@@ -1,2 +1,2 @@
-mvnw.cmd linguist-generated=true
-mvnw linguist-generated=true
+* linguist-vendored
+*.js linguist-vendored=false
