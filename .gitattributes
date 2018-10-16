@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.swift linguist-vendored=false
+*C# linguist-vendored=false
