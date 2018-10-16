@@ -1,5 +1,6 @@
 ### Car-Shop SummerFox
-**Simple cross platform, e-commerce system ASP.NET Core &amp; SQL Server**
+**Simple cross platform, e-commerce system 
+ASP.NET Core &amp; SQL Server**
 
 ![admin4](https://user-images.githubusercontent.com/25099980/47049475-44682700-d152-11e8-8046-4ef6870915ef.png)
 
