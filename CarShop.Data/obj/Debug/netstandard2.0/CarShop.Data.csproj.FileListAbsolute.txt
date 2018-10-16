@@ -1,0 +1,87 @@
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\bin\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Data\obj\Debug\netstandard2.0\CarShop.Data.csprojAssemblyReference.cache

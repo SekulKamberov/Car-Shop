@@ -1,0 +1,189 @@
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 05.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Web.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\bin\Debug\netcoreapp2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Web\obj\Debug\netcoreapp2.0\CarShop.Web.pdb

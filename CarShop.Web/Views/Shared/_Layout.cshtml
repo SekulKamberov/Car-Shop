@@ -1,0 +1,547 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Car Shop</title>
+ 
+    <environment include="Staging,Production">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+
+        <link rel="stylesheet" href="~/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="~/fonts/iconic/css/material-design-iconic-font.min.css">
+        <link rel="stylesheet" href="~/fonts/linearicons-v1.0.0/icon-font.min.css">
+        <link rel="stylesheet" href="~/vendor/animate/animate.css">
+        <link rel="stylesheet" href="~/vendor/css-hamburgers/hamburgers.min.css">
+        <link rel="stylesheet" href="~/vendor/animsition/css/animsition.min.css">
+        <link rel="stylesheet" href="~/vendor/select2/select2.min.css">
+        <link rel="stylesheet" href="~/vendor/daterangepicker/daterangepicker.css">
+        <link rel="stylesheet" href="~/vendor/slick/slick.css">
+        <link rel="stylesheet" href="~/vendor/MagnificPopup/magnific-popup.css">
+        <link rel="stylesheet" href="~/vendor/perfect-scrollbar/perfect-scrollbar.css">
+        <link rel="stylesheet" href="~/css/util.css">
+        <link rel="stylesheet" href="~/css/main.css">
+    </environment>
+    <environment exclude="Staging,Production">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+        <!-- Header -->
+        <header class="header-v4">
+            <!-- Header desktop -->
+            <div class="container-menu-desktop m-t-50">
+                <!-- Topbar -->
+                <div class="top-bar">
+                    <div class="content-topbar flex-sb-m h-full container">
+                        <div class="right-top-bar flex-w h-full">
+                            <a asp-area="" asp-controller="Home" asp-action="About" class="flex-c-m trans-04 p-lr-25">
+                                SummerFox
+                            </a>
+                            <a asp-area="" asp-controller="Home" asp-action="About" class="flex-c-m trans-04 p-lr-25">
+                                StarSechko
+                            </a>
+                            <a asp-area="" asp-controller="Home" asp-action="About" class="flex-c-m trans-04 p-lr-25">
+                                More Info
+                            </a>
+                            <a asp-area="" asp-controller="Home" asp-action="Contact" class="flex-c-m trans-04 p-lr-25">
+                                My Account
+                            </a>
+
+                            <a asp-area="" asp-controller="Home" asp-action="More" class="flex-c-m trans-04 p-lr-25">
+                                FAQs
+                            </a>
+
+                            <a asp-area="" asp-controller="Home" asp-action="Cart" class="flex-c-m trans-04 p-lr-25">
+                                Help
+                            </a>
+
+                            @if (User.IsInRole(WebConstants.Admin))
+                            {
+                                <a asp-area="Admin" asp-controller="Cars" asp-action="Index"
+                                   class="flex-c-m trans-04 p-lr-25">Admin</a>
+                            }
+
+                        </div>
+                        <div class="right-top-bar">
+                            @await Html.PartialAsync("_LoginPartial")
+
+                        </div>
+                    </div>
+
+                    <div class="wrap-menu-desktop how-shadow1">
+                        <nav class="limiter-menu-desktop container">
+
+                            <!-- Logo desktop -->
+                            <a href="#" class="logo">
+                                <img src="images/StarSechkoLogo.png" alt="Star Sechko Logo" width="200" height="35">
+                            </a>
+
+                            <!-- Menu desktop -->
+                            <div class="menu-desktop">
+                                <ul class="main-menu">
+                                    <li>
+                                        <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                        <ul class="sub-menu">
+                                            <li><a asp-area="" asp-controller="Home" asp-action="Index">Mars</a></li>
+                                            <li><a asp-area="" asp-controller="Home" asp-action="Index">Needs</a></li>
+                                            <li><a asp-area="" asp-controller="Home" asp-action="Index">Women</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="active-menu label1" data-label1="hot">
+                                        <a asp-area="" asp-controller="Home" asp-action="Index">Shop</a>
+                                    </li>
+
+                                    <li>
+                                        <a asp-area="" asp-controller="Home" asp-action="Cart">Features</a>
+                                    </li>
+
+                                    <li>
+                                        <a asp-area="" asp-controller="Home" asp-action="Blog">Blog</a>
+                                    </li>
+
+                                    <li>
+                                        <a asp-area="" asp-controller="Home" asp-action="About">About</a>
+                                    </li>
+
+                                    <li>
+                                        <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Icon header -->
+                            <div class="wrap-icon-header flex-w flex-r-m">
+                                <div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 js-show-modal-search">
+                                    <i class="zmdi zmdi-search"></i>
+                                </div>
+
+                                <div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti js-show-cart" data-notify="pay">
+
+                                    <a asp-area="" asp-controller="Shoppingcart" asp-action="Items">
+                                        <img src="~/images/SC.gif" width="60" height="46">
+                                    </a>
+
+                                </div>
+
+                                <a href="#" class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti" data-notify="0">
+                                    <i class="zmdi zmdi-favorite-outline"></i>
+                                </a>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+
+                <!-- Header Mobile -->
+                <div class="wrap-header-mobile">
+                    <!-- Logo moblie -->
+                    <div class="logo-mobile">
+                        <a href="index.html"><img src="~/images/icons/logo-01.png" alt="IMG-LOGO"></a>
+                    </div>
+
+                    <!-- Icon header -->
+                    <div class="wrap-icon-header flex-w flex-r-m m-r-15">
+                        <div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 js-show-modal-search">
+                            <i class="zmdi zmdi-search"></i>
+                        </div>
+
+                        <div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart" data-notify="2">
+                            <a asp-area="" asp-controller="Shoppingcart" asp-action="Items" class="zmdi zmdi-shopping-cart">
+                            </a>
+                        </div>
+
+                        <a href="#" class="dis-block icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti" data-notify="0">
+                            <i class="zmdi zmdi-favorite-outline"></i>
+                        </a>
+                    </div>
+
+                    <!-- Button show menu -->
+                    <div class="btn-show-menu-mobile hamburger hamburger--squeeze">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </div>
+                </div>
+
+
+                <!-- Menu Mobile -->
+                <div class="menu-mobile">
+                    <ul class="topbar-mobile">
+                        <li>
+                            <div class="left-top-bar">
+                                Free shipping for standard order over $100
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="right-top-bar flex-w h-full">
+                                <a href="About.cshtml" class="flex-c-m p-lr-10 trans-04">
+                                    Help & FAQs
+                                </a>
+
+                                <a href="About.cshtml" class="flex-c-m p-lr-10 trans-04">
+                                    My Account
+                                </a>
+
+                                <a href="blog.cshtml" class="flex-c-m p-lr-10 trans-04">
+                                    EN
+                                </a>
+
+                                <a href="blog.cshtml" class="flex-c-m p-lr-10 trans-04">
+                                    USD
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <ul class="main-menu-m">
+                        <li>
+                            <a href="index.html">Home</a>
+                            <ul class="sub-menu-m">
+                                <li><a href="About.cshtml">Mars</a></li>
+                                <li><a href="blog.cshtml">Needs 2</a></li>
+                                <li><a href="Contact.html">Women 3</a></li>
+                            </ul>
+                            <span class="arrow-main-menu-m">
+                                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                            </span>
+                        </li>
+
+                        <li>
+                            <a href="product.html">Shop</a>
+                        </li>
+
+                        <li>
+                            <a href="shoping-cart.html" class="label1 rs1" data-label1="hot">Features</a>
+                        </li>
+
+                        <li>
+                            <a href="blog.html">Blog</a>
+                        </li>
+
+                        <li>
+                            <a href="about.html">About</a>
+                        </li>
+
+                        <li>
+                            <a href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Modal Search -->
+                <div class="modal-search-header flex-c-m trans-04 js-hide-modal-search">
+                    <div class="container-search-header">
+                        <button class="flex-c-m btn-hide-modal-search trans-04 js-hide-modal-search">
+                            <img src="images/icons/icon-close2.png" alt="CLOSE">
+                        </button>
+                        <form method="get" action="@Url.Action("ModelSearch", "Home")" class="wrap-search-header flex-w p-l-15">         
+                            <input class="mtext-107 cl2 size-114 plh2 p-r-15" type="text" name="search" placeholder="Search">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Product -->
+        <div class="bg0 m-t-10 p-b-140">
+            <div class="container">
+                <div class="flex-w flex-sb-m p-b-12">
+                    <div class="flex-w flex-l-m filter-tope-group m-tb-10">
+                        <a asp-area="" asp-controller="Home" asp-action="Index"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">Car Shop</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="0"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">Hatchback</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="1"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">Sedan</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="2"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">MPV</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="3"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">SUV</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="4"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">Crossover</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="5"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">Coupe</a>
+
+                        <a asp-area="" asp-controller="Home" asp-action="TypeSearch" asp-route-id="6"
+                           class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1">Cabrio</a>
+                    </div>
+                </div>
+
+                <!-- images-->
+                <div class="row isotope-grid">
+
+                    @if (TempData.ContainsKey(WebConstants.TempDataSuccess))
+                    {
+                        <div class="alert alert-success alert-dismissible" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            @Html.Raw(TempData[WebConstants.TempDataSuccess])
+                        </div>
+                    }
+                    @if (TempData.ContainsKey(WebConstants.TempDataError))
+                    {
+                        <div class="alert alert-danger alert-dismissible" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            @Html.Raw(TempData[WebConstants.TempDataError])
+                        </div>
+                    }
+
+                    @RenderBody()
+
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <footer class="bg3 p-t-75 p-b-32">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-lg-3 p-b-50">
+                        <h4 class="stext-301 cl0 p-b-30">
+                            Categories
+                        </h4>
+                        <ul>
+                            <li class="p-b-10">
+                                <a href="https://github.com/SekulKamberov" class="stext-107 cl7 hov-cl1 trans-04">
+                                    GitHub
+                                </a>
+                            </li>
+                            <li class="p-b-10">
+                                <a asp-area="" asp-controller="Home" asp-action="Index" class="stext-107 cl7 hov-cl1 trans-04">
+                                    Car Shop
+                                </a>
+                            </li>
+                            <li class="p-b-10">
+                                <a asp-area="" asp-controller="Home" asp-action="Index" class="stext-107 cl7 hov-cl1 trans-04">
+                                    Sechko
+                                </a>
+                            </li>
+
+                            <li class="p-b-10">
+                                <a asp-area="" asp-controller="Home" asp-action="Index" class="stext-107 cl7 hov-cl1 trans-04">
+                                    More
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-3 p-b-50">
+                        <h4 class="stext-301 cl0 p-b-30">
+                            Help
+                        </h4>
+
+                        <ul>
+                            <li class="p-b-10">
+                                <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                    Track Order
+                                </a>
+                            </li>
+
+                            <li class="p-b-10">
+                                <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                    Hot
+                                </a>
+                            </li>
+
+                            <li class="p-b-10">
+                                <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                    Shipping
+                                </a>
+                            </li>
+
+                            <li class="p-b-10">
+                                <a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+                                    FAQs
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-3 p-b-50">
+                        <h4 class="stext-301 cl0 p-b-30">
+                            GET IN TOUCH
+                        </h4>
+
+                        <p class="stext-107 cl7 size-201">
+                            Any questions? Let us know in store at Bulgaria, Sofia kv.Simeonovo 
+                        </p>
+
+                        <div class="p-t-27">
+                            <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+
+                            <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                                <i class="fa fa-instagram"></i>
+                            </a>
+
+                            <a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                                <i class="fa fa-pinterest-p"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-3 p-b-50">
+                        <h4 class="stext-301 cl0 p-b-30">
+                            Newsletter
+                        </h4>
+
+                        <form>
+                            <div class="wrap-input1 w-full p-b-4">
+                                <input class="input1 bg-none plh1 stext-107 cl7" type="text" name="email" placeholder="email@example.com">
+                                <div class="focus-input1 trans-04"></div>
+                            </div>
+
+                            <div class="p-t-18">
+                                <button class="flex-c-m stext-101 cl0 size-103 bg1 bor1 hov-btn2 p-lr-15 trans-04">
+                                    Subscribe
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="p-t-40">
+                    <div class="flex-c-m flex-w p-b-18">
+                    </div>
+                    <p class="stext-107 cl6 txt-center">
+                        Copyright &copy;
+                        <script>document.write(new Date().getFullYear());</script> All rights reserved template Colorlib
+                        <i class="fa fa-heart-o" aria-hidden="true"></i>                    
+                    </p>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Back to top -->
+        <div class="btn-back-to-top" id="myBtn">
+            <span class="symbol-btn-back-to-top">
+                <i class="zmdi zmdi-chevron-up"></i>
+            </span>
+        </div>
+
+        <environment include="Staging,Production">
+            <script src="~/lib/jquery/dist/jquery.js"></script>
+            <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+            <script src="~/js/site.js" asp-append-version="true"></script>
+            <script src="~/vendor/jquery/jquery-3.2.1.min.js"></script>
+            <script src="~/vendor/animsition/js/animsition.min.js"></script>
+            <script src="~/vendor/bootstrap/js/popper.js"></script>
+            <script src="~/vendor/bootstrap/js/bootstrap.min.js"></script>
+            <script src="~/vendor/select2/select2.min.js"></script>
+            <script>
+                $(".js-select2").each(function () {
+                    $(this).select2({
+                        minimumResultsForSearch: 20,
+                        dropdownParent: $(this).next('.dropDownSelect2')
+                    });
+                })
+            </script>
+            <script src="~/vendor/daterangepicker/moment.min.js"></script>
+            <script src="~/vendor/daterangepicker/daterangepicker.js"></script>
+            <script src="~/vendor/slick/slick.min.js"></script>
+            <script src="~/js/slick-custom.js"></script>
+            <script src="~/vendor/parallax100/parallax100.js"></script>
+            <script>
+                $('.parallax100').parallax100();
+            </script>
+            <script src="~/vendor/MagnificPopup/jquery.magnific-popup.min.js"></script>
+            <script>
+                $('.gallery-lb').each(function () { // the containers for all your galleries
+                    $(this).magnificPopup({
+                        delegate: 'a', // the selector for gallery item
+                        type: 'image',
+                        gallery: {
+                            enabled: true
+                        },
+                        mainClass: 'mfp-fade'
+                    });
+                });
+            </script>
+            <script src="~/vendor/isotope/isotope.pkgd.min.js"></script>
+            <script src="~/vendor/sweetalert/sweetalert.min.js"></script>
+            <script>
+                $('.js-addwish-b2, .js-addwish-detail').on('click', function (e) {
+                    e.preventDefault();
+                });
+
+                $('.js-addwish-b2').each(function () {
+                    var nameProduct = $(this).parent().parent().find('.js-name-b2').html();
+                    $(this).on('click', function () {
+                        swal(nameProduct, "is added to wishlist !", "success");
+
+                        $(this).addClass('js-addedwish-b2');
+                        $(this).off('click');
+                    });
+                });
+
+                $('.js-addwish-detail').each(function () {
+                    var nameProduct = $(this).parent().parent().parent().find('.js-name-detail').html();
+
+                    $(this).on('click', function () {
+                        swal(nameProduct, "is added to wishlist !", "success");
+
+                        $(this).addClass('js-addedwish-detail');
+                        $(this).off('click');
+                    });
+                });
+
+                $('.js-addcart-detail').each(function () {
+                    var nameProduct = $(this).parent().parent().parent().parent().find('.js-name-detail').html();
+                    $(this).on('click', function () {
+                        swal(nameProduct, "is added to cart !", "success");
+                    });
+                });
+
+            </script>
+
+            <script src="~/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+            <script>
+                $('.js-pscroll').each(function () {
+                    $(this).css('position', 'relative');
+                    $(this).css('overflow', 'hidden');
+                    var ps = new PerfectScrollbar(this, {
+                        wheelSpeed: 1,
+                        scrollingThreshold: 1000,
+                        wheelPropagation: false,
+                    });
+
+                    $(window).on('resize', function () {
+                        ps.update();
+                    })
+                });
+            </script>
+
+            <script src="~/js/main.js"></script>
+        </environment>
+        <environment exclude="Staging,Production">
+            <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                    asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                    asp-fallback-test="window.jQuery"
+                    crossorigin="anonymous"
+                    integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+            </script>
+            <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                    asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                    asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                    crossorigin="anonymous"
+                    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+            </script>
+            <script src="~/js/site.min.js" asp-append-version="true"></script>
+        </environment>
+        @RenderSection("Scripts", required: false)
+</body>
+</html>

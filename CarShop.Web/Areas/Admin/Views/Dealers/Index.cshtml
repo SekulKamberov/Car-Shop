@@ -1,0 +1,33 @@
+﻿@model IEnumerable<AdminDealerListingServiceModel>
+
+<div class="col-md-10">
+    <strong class="pull-left">Modify official car dealers</strong>
+        <a asp-action=@nameof(DealersController.Create) class="btn btn-primary btn-sm pull-right">Add</a>
+        <table class="table table-hover table-bordered table-striped table-responsive">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Dealer</th>
+                    <th>Change</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var dealer in Model)
+                {
+                <tr>
+
+                    <td>@dealer.Name</td>
+                    <td>@dealer.Description</td>
+                    <td>@dealer.Brand</td>
+                    <td>
+                        <a asp-action=@nameof(DealersController.Edit) asp-route-id=@dealer.Id
+                           class="btn glyphicon glyphicon-pencil"></a>
+                        <a asp-action=@nameof(DealersController.Delete) asp-route-id=@dealer.Id
+                           class="btn glyphicon glyphicon-remove text-danger"></a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+</div>

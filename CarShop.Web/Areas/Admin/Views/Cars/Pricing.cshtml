@@ -1,0 +1,34 @@
+﻿@model CarExtraPricingFormModel
+@{
+    ViewData["Title"] = $"Edit Car Pricing";
+}
+<h2>@ViewData["Title"]</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action=@nameof(CarsController.Pricing)>
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input asp-for="Id" hidden />
+            <input asp-for="ExtraId" hidden />
+            <div class="form-group">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" type="number" step="0.01"
+                       min=@DataConstants.CarExtraMinPrice />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discount"></label>
+                <input asp-for="Discount" class="form-control" type="number" step="1"
+                       min=@DataConstants.CarExtraMinDiscount
+                       max=@DataConstants.CarExtraMaxDiscount />
+                <span asp-validation-for="Discount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity"></label>
+                <input asp-for="Quantity" class="form-control" type="number" step="1"
+                       min=@DataConstants.CarExtraMinQuantity />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-block btn-primary">Save Car Pricing</button>
+        </form>
+    </div>
+</div>

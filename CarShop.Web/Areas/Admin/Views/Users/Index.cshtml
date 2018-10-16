@@ -1,0 +1,41 @@
+﻿@model UserListingViewModel
+
+<div class="col-md-7">
+    <strong>Modify user roles</strong>
+    <table class="table table-hover table-bordered table-responsive">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Add to Role</th>
+                <th>Remove from Role</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Username</td>
+                    <td>@user.Email</td>
+                    <td>
+                        <form method="post" asp-controller="Users" asp-action=@nameof(UsersController.AddToRole)>
+                            <input hidden name="UserId" asp-for=@user.Id />
+                            <select name="Role" asp-items="Model.Roles" class="form-control"></select>
+                            <input type="submit" class="btn btn-block btn-primary btn-sm" value="Add" />
+                        </form>
+                    </td>
+                    <td>
+                        <form method="post" asp-controller="Users" asp-action=@nameof(UsersController.RemoveFromRole)>
+                            <input hidden name="UserId" asp-for=@user.Id />
+                            <select name="Role" asp-items="Model.Roles" class="form-control"></select>
+                            <input type="submit" class="btn btn-block btn-danger btn-sm" value="Remove" />
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

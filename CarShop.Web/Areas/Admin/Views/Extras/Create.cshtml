@@ -1,0 +1,9 @@
+﻿@model ExtraFormModel
+@{
+    ViewData["Title"] = "Add Extra";
+}
+<h2>@ViewData["Title"]</h2>
+@await Html.PartialAsync("_ExtraForm", Model)
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

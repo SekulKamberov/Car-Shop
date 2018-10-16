@@ -1,0 +1,61 @@
+﻿@model CarShop.Web.Areas.Admin.Models.Cars.CarDealersListingModel
+@{
+    ViewData["Title"] = "Contributing Dealers";
+
+    var orderedDealers = Model.CarDealers
+        .ContibutingDealers
+        .OrderBy(a => a.CarBrand)
+        .ThenBy(a => a.Name);
+}
+<h2>@Model.CarDealers.Title (@Model.CarDealers.BrandName, @Model.CarDealers.ReleaseDate.ToDate())</h2>
+<h3>
+    @ViewData["Title"]
+    <a asp-action=@nameof(CarsController.Extras) asp-route-id=@Model.CarDealers.Id
+       class="btn btn-primary pull-right">Review Available</a>
+</h3>
+@if (Model.CarDealers.ContibutingDealers.Any())
+{
+    <table class="table table-hover table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Dealer Category</th>
+                <th>Dealer</th>
+                <th>Admin</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dealer in orderedDealers)
+            {
+                <tr>
+                    <td>@dealer.CarBrand</td>
+                    <td>@dealer.Name</td>
+                    <td>
+                        <form method="post"
+                              asp-action=@nameof(CarsController.RemoveDealerFromCar)
+                              asp-route-id=@Model.CarDealers.Id asp-route-DealerId=@dealer.Id>
+                            <input type="submit" class="btn btn-danger " value=&times />
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    @: No dealers contributing to this car.
+}
+<h3>Add more dealers to this car</h3>
+<div>
+    <div class="row">
+            <form method="post" asp-action=@nameof(CarsController.AddDealerToCar)>
+                <input hidden name="CarId" asp-for=@Model.CarDealers.CarId />
+                <div class="col-md-4 ">
+                    <select name="DealerId" asp-items=@Model.Dealers class="form-control"></select>
+                </div>
+                <div class="col-md-4 ">
+                    <input type="submit" class="btn btn-primary " value="Add Dealer" />
+                </div>
+            </form>
+    </div>
+</div>

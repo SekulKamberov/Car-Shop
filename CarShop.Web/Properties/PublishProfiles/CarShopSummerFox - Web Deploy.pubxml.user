@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjHW4B6IcwEa4LhD4GD0DxAAAAAACAAAAAAAQZgAAAAEAACAAAABs9R4UBkv3EUsAyLx7UGk1mcTzWM6+mBOsTId+0AeQIAAAAAAOgAAAAAIAACAAAABa2Ijelgg2xEcUI8msCUj3YMsZyTD58jR1sSADhz1LQIAAAAAav7U1rO6o4Rlv7q0/LGQLpQgiTUzXT37pg55VfhQUnz2oS/uXx2Eu6D4MxkQOEwAUPcJUSYTeybRrCIEhqj9SiLnV3aZOFu/r98j+BZ1PhpUNWhatmu8CKriT24JN4pgq8bVVntNTFhgx5Jwdng7CbWofSzTj/8WLDx4PSE7/wkAAAAAew1pQFMmXfVm2zhn0jMe1J0b9ZUWRHg+PgkR+81JG0oPIsytBnJ0Bp55itR9XDL8MN5crVEYPLEhvtb1LLmgz</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:summerfox.database.windows.net,1433%3bInitial Catalog=Shop%3bPersist Security Info=False%3bUser ID=sekul4o%3bPassword=Sekul369%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

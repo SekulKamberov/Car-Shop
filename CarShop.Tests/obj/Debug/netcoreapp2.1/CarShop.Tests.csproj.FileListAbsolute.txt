@@ -1,0 +1,97 @@
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 03.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\05.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 07.10.2018 Test\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 11.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop - 12.10.2018 - Copy\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.runtimeconfig.dev.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\bin\Debug\netcoreapp2.1\CarShop.Tests.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Tests\obj\Debug\netcoreapp2.1\CarShop.Tests.pdb

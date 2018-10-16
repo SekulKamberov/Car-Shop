@@ -1,0 +1,10 @@
+﻿@model CarFormModel
+@{
+    ViewData["Title"] = "Modify Car";
+}
+<h2>@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_CarForm", Model)
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

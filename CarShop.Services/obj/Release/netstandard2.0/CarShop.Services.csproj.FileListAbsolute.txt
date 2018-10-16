@@ -1,0 +1,28 @@
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Services.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\bin\Release\netstandard2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Services.deps.json
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Services.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Common.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Data.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Data.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\bin\Release\netstandard2.0\CarShop.Common.pdb
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.csprojAssemblyReference.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.AssemblyInfoInputs.cache
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.AssemblyInfo.cs
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.csproj.CopyComplete
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.dll
+C:\Users\Sekul\Desktop\CarShop\CarShop 13.10.2018\CarShop.Services\obj\Release\netstandard2.0\CarShop.Services.pdb

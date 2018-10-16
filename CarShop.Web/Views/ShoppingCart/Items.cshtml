@@ -1,0 +1,96 @@
+﻿@model IEnumerable<CartItemViewModel>
+@{
+    ViewData["Title"] = "Orders";
+    var itemsCount = Model.Sum(i => i.Quantity);
+    var orderTotal = Model.Sum(i => i.Price * i.Quantity * (1 - (decimal)i.Discount / 100));
+}
+
+@if (Model.Any())
+{
+<div class="container m-t-21 col-md-21 col-sm-offset-1">
+
+        <h2 class="m-b-23">Your @ViewData["Title"]</h2>
+
+        @foreach (var item in Model)
+        {
+
+
+            <div class="col-md-10 m-t-21 m-b-17">
+                <div class="col-md-6">
+                    <image class="img-responsive" src="@item.Image" asp-append-version="true" />
+                </div>
+                <div class="col-md-4 col-md-offset-1">
+
+                    <h1>@item.CarTitle</h1>
+                    <div class="m-t-12"><span class="stext-105">With: &nbsp;</span><span class="mtext-106">@item.ExtraName</span></div>
+
+                    <div class="m-t-12"><h4 class="ltext-111"><span class="stext-105">Quantity: &nbsp;</span>@item.Quantity</h4></div>
+                    <div class="m-t-12"><h4 class="ltext-111"><span class="stext-105">Discount: &nbsp;</span>@item.Discount.ToPercentage()</h4></div>
+                    <div class="m-t-12"><h2 class="ltext-101">@item.Price.ToCurrency()</h2></div>
+
+                    <div class="btn-group btn-group-sm pull-left m-t-15">
+                        <a asp-controller="ShoppingCart"
+                           asp-action=@nameof(ShoppingCartController.DescreaseQuantity)
+                           asp-route-recordingId=@item.CarId
+                           asp-route-formatId=@item.ExtraId
+                           class="btn btn-default btn-md">&minus;</a>
+                        <a asp-controller="ShoppingCart"
+                           asp-action=@nameof(ShoppingCartController.IncreaseQuantity)
+                           asp-route-recordingId=@item.CarId
+                           asp-route-formatId=@item.ExtraId
+                           class="btn btn-default btn-md">+</a>
+                        <a asp-controller="ShoppingCart"
+                           asp-action=@nameof(ShoppingCartController.Remove)
+                           asp-route-recordingId=@item.CarId
+                           asp-route-formatId=@item.ExtraId
+                           class="btn btn-danger btn-md ">Delete</a>
+                    </div>
+
+                </div>
+            </div>
+        }
+
+
+    </div>
+}
+else
+{
+    @:No items in your shopping cart.
+}
+
+<div class="col-md-12 col-md-offset-2">
+    <div class="col-md-8">
+        <h1 class="m-t-15">Order Summary</h1>
+        <hr />
+        <p>
+            Subtotal (@itemsCount @(itemsCount > 1 ? "items" : "item"))
+            <span class="pull-right">
+                @orderTotal.ToCurrency()
+            </span>
+        </p><br/>
+        <p>
+            Delivery
+            <span class="pull-right">free</span>
+        </p>
+        <hr />
+        <p>
+            Order Total
+            <span class="pull-right">@orderTotal.ToCurrency()</span>
+        </p>
+        <div class="col-md-5 col-md-offset-3">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <form method="post" asp-controller="ShoppingCart" asp-action=@nameof(ShoppingCartController.FinishOrder) class="m-t-15">
+                    <input hidden name="OrderTotal" value=@orderTotal />
+                    <input type="submit" class="btn btn-danger pull-right" value="Finish Order" />
+                </form>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary pull-left">Back to Shop</a>
+            }
+            else
+            {
+                <a asp-controller="Account" asp-action=@nameof(AccountController.Login) asp-route-returnUrl=@Context.Request.Path
+                   class="btn btn-primary btn-block btn-lg">Login to Order</a>
+            }
+        </div>
+    </div>
+</div>

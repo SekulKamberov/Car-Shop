@@ -1,0 +1,9 @@
+﻿@model DealerFormModel
+@{
+    ViewData["Title"] = "Car Category";
+}
+<h2>@ViewData["Title"]</h2>
+@await Html.PartialAsync("_DealerForm", Model)
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

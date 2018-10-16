@@ -1,0 +1,84 @@
+﻿@model CarExtrasListingModel
+@{
+    ViewData["Title"] = "Available Extras";
+
+    var orderedExtras = Model.Car
+        .AvailableExtras
+        .OrderBy(f => f.Name);
+}
+<h2>@Model.Car.Title (@Model.Car.BrandName, @Model.Car.ReleaseDate.ToDate())</h2>
+<h3>
+    @ViewData["Title"]
+    <a asp-action=@nameof(CarsController.Dealers) asp-route-id=@Model.Car.Id
+       class="btn btn-primary pull-right">Review Contributing Extras</a>
+</h3>
+@if (Model.Car.AvailableExtras.Any())
+{
+    <table class="table table-hover table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Extra</th>
+                <th>Price</th>
+                <th>Discount, %</th>
+                <th>Quantity</th>
+                <th>Extra Name</th>
+                <th>Extra Id</th>
+                <th>Pricing</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var extra in orderedExtras)
+            {
+            <tr>
+                <td class="text-right">@extra.Name</td>
+                <td class="text-right">@extra.Price.ToCurrency()</td>
+                <td class="text-right">@extra.Discount.ToPercentage()</td>
+                <td class="text-right">@extra.Quantity</td>
+                <td class="text-right">@extra.Name</td>
+                <td class="text-right">@extra.Id</td>
+                <td>
+                    <a asp-action=@nameof(CarsController.Pricing)
+                       asp-route-id=@Model.Car.Id asp-route-ExtraId=@extra.Id
+                       class="btn btn-default">Edit</a>
+                </td>
+                <td>
+                    <form method="post"
+                          asp-action=@nameof(CarsController.RemoveExtraFromCar)
+                          asp-route-id=@Model.Car.Id asp-route-ExtraId=@extra.Id>
+                        <input type="submit" class="btn btn-danger" value=&times />
+                    </form>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    @: No Extras avaiable for this Car.
+}
+<h3>Add more Extras to this Car</h3>
+<div class="row">
+    <form method="post" asp-action=@nameof(CarsController.AddExtraToCar)>
+        <input hidden name="CarId" asp-for=@Model.Car.Id />
+        <div class="col-md-3 ">
+            <select name="ExtraId" asp-items=Model.Extras class="form-control"></select>
+        </div>
+        <div class="col-md-2">
+            <input required name="Price" type="number" min="0.01" step="0.01"
+                   class="form-control" placeholder="Price" />
+        </div>
+        <div class="col-md-2">
+            <input required name="Discount" type="number" min="0" max="100" step="1"
+                   class="form-control" placeholder="Discount, %" />
+        </div>
+        <div class="col-md-2">
+            <input required name="Quantity" type="number" min="0" step="1"
+                   class="form-control" placeholder="Quantity" />
+        </div>
+        <div class="col-md-3 ">
+            <input type="submit" class="btn btn-primary" value="Add Extra" />
+        </div>
+    </form>
+</div>

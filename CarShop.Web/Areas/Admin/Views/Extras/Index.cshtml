@@ -1,0 +1,31 @@
+﻿@model IEnumerable<AdminExtraListingServiceModel>
+
+<div class="col-md-10">
+    <strong class="pull-left"> Modify model extras </strong>
+    <a asp-action=@nameof(ExtrasController.Create) class="btn btn-primary btn-sm pull-right">Add Extra</a>
+    <table class="table table-hover table-bordered table-striped table-responsive">
+        <thead>
+            <tr>
+                <th>All Extras</th>
+                <th>Information</th>
+                <th>Modify</th>
+            </tr>
+        </thead> 
+        <tbody>
+            @foreach (var dealer in Model)
+            {
+                <tr>
+                    <td>@dealer.Name</td>
+
+                    <td>@dealer.Description</td>
+                    <td>
+                        <a asp-action=@nameof(ExtrasController.Edit) asp-route-id=@dealer.Id
+                           class="btn glyphicon glyphicon-pencil"></a>
+                        <a asp-action=@nameof(ExtrasController.Delete) asp-route-id=@dealer.Id
+                           class="btn glyphicon glyphicon-remove text-danger"></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>

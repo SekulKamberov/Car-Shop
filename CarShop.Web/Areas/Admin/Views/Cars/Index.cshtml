@@ -1,0 +1,37 @@
+﻿@model IEnumerable<AdminCarListingServiceModel>
+
+<div class="col-md-12">
+    <strong>Car Management</strong>
+    <a asp-action=@nameof(CarsController.Create) class="btn btn-primary btn-sm pull-right">Add Car</a>
+
+    <table class="table table-hover table-bordered table-striped table-responsive">
+        <thead>
+            <tr>
+                <th>Model</th>
+                <th>Brand</th>
+                <th>Release Date</th>
+                <th>Manage</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in Model)
+            {
+                <tr>
+                    <td>@car.Title</td>
+                    <td>@car.BrandName</td>
+                    <td>@car.ReleaseDate.ToDate()</td>
+                    <td>
+                        <a asp-action=@nameof(CarsController.Extras) asp-route-id=@car.Id
+                           class="btn btn-primary btn-sm">Pricing</a>
+                        <a asp-action=@nameof(CarsController.Dealers) asp-route-id=@car.Id
+                           class="btn btn-primary btn-sm">Dealers</a>
+                        <a asp-action=@nameof(CarsController.Edit) asp-route-id=@car.Id
+                           class="btn glyphicon glyphicon-pencil"></a>
+                        <a asp-action=@nameof(CarsController.Delete) asp-route-id=@car.Id
+                           class="btn glyphicon glyphicon-remove text-danger"></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
