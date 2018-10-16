@@ -1,2 +1,1 @@
-* linguist-vendored
-*.C# linguist-vendored=false
+*.rb linguist-language=C#
