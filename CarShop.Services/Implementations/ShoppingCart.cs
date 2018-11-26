@@ -1,7 +1,9 @@
-﻿namespace CarShop.Services.Models
+﻿namespace CarShop.Services.Implementations
 {
     using System.Collections.Generic;
     using System.Linq;
+	using CarShop.Services.Models;
+
 
     public class ShoppingCart
     {
