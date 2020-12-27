@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="CarShopSummerFox" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Sekul\\Desktop\\CarShop\\CarShop\ 13\.10\.2018\\CarShop\.Web\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>

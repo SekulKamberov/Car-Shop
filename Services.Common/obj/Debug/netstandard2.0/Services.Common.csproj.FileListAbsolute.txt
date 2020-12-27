@@ -1,9 +1,0 @@
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\bin\Debug\netstandard2.0\Services.Common.deps.json
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\bin\Debug\netstandard2.0\Services.Common.dll
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\bin\Debug\netstandard2.0\Services.Common.pdb
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\obj\Debug\netstandard2.0\Services.Common.csprojAssemblyReference.cache
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\obj\Debug\netstandard2.0\Services.Common.csproj.CoreCompileInputs.cache
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\obj\Debug\netstandard2.0\Services.Common.AssemblyInfoInputs.cache
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\obj\Debug\netstandard2.0\Services.Common.AssemblyInfo.cs
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\obj\Debug\netstandard2.0\Services.Common.dll
-C:\Users\Sekul\Desktop\CarShop\CarShop\Services.Common\obj\Debug\netstandard2.0\Services.Common.pdb
